@@ -1,0 +1,126 @@
+
+{
+	"timeline":
+	{
+		"headline":"Geschichte der Max-Beckmann-Grundschule",
+		"type":"default",
+		"startDate":"1888",
+		"text":"<p>1959 wurde mit dem Bau begonnen - um das Schulhaus finanzieren zu können, wurden Grundstücke am Eichenlöhlein verkauft 1963 fand die Einweihung durch Rektor Hermann Hübner statt. Die Schule war schon damals etwas Besonderes, denn sie hatte eine Lehrküche und einen Werkraum mit Hobelbänken.</p>",
+		"asset": {
+			"media":"images/baubeginn.jpg",
+			"credit":"",
+			"caption":"Lageplan 1959"
+		},
+		"date": [
+			{
+				"startDate":"1959",
+				"endDate":"1959",
+				"headline":"Baubeginn des Schulgeb&aumldes",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"",
+				"asset": {
+					"media":"images/baubeginn.jpg",
+					"thumbnail":"optional-32x32px.jpg",
+					"credit":"",
+					"caption":"Caption text goes here"
+				}
+			},
+			
+			{
+				"startDate":"1963",
+				"endDate":"1963",
+				"headline":"Einweihung des Schulgeb&aumldes",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"",
+				"asset": {
+					"media":"images/baubeginn.jpg",
+					"thumbnail":"optional-32x32px.jpg",
+					"credit":"",
+					"caption":"Caption text goes here"
+				}
+			},
+			
+			{
+				"startDate":"1972",
+				"endDate":"1972",
+				"headline":"Bau der Turnhalle",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"",
+				"asset": {
+					"media":"images/baubeginn.jpg",
+					"thumbnail":"optional-32x32px.jpg",
+					"credit":"",
+					"caption":"Caption text goes here"
+				}
+			},
+			
+			{
+				"startDate":"1975",
+				"endDate":"1975",
+				"headline":"1. Schulfest",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"",
+				"asset": {
+					"media":"images/baubeginn.jpg",
+					"thumbnail":"optional-32x32px.jpg",
+					"credit":"",
+					"caption":"Caption text goes here"
+				}
+			},
+			
+			{
+				"startDate":"1977",
+				"endDate":"1980",
+				"headline":"Neubau",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"",
+				"asset": {
+					"media":"images/baubeginn.jpg",
+					"thumbnail":"optional-32x32px.jpg",
+					"credit":"Credit Name Goes Here",
+					"caption":"Caption text goes here"
+				}
+			},
+			
+			{
+				"startDate":"2008",
+				"endDate":"2010",
+				"headline":"Anbau",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"",
+				"asset": {
+					"media":"images/baubeginn.jpg",
+					"thumbnail":"optional-32x32px.jpg",
+					"credit":"",
+					"caption":"Caption text goes here"
+				}
+			}
+		],
+		"era": [
+			{
+				"startDate":"1959",
+				"endDate":"1975",
+				"headline":"",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":""
+			},
+			
+			{
+				"startDate":"1977",
+				"endDate":"1980",
+				"headline":"",
+				"text":"<p>Neubau</p>",
+				"tag":""
+			},
+			
+			{
+				"startDate":"2008",
+				"endDate":"2012",
+				"headline":"",
+				"text":"<p>Anbau</p>",
+				"tag":""
+			}
+			
+		]
+	}
+}
