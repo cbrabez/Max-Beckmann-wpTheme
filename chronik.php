@@ -9,9 +9,7 @@
 	
 	<!-- start content -->
 	<section id="chronik" class="chronikContent">
-		
-<?php echo do_shortcode('[timeline src="https://docs.google.com/spreadsheet/pub?key=0AvJI14JT3D30dGw4WGZCYjFWOURjVDFQckx2MlQxcWc&output=html"]'); ?>
-		
+		<iframe src='http://embed.verite.co/timeline/?source=0AvJI14JT3D30dGw4WGZCYjFWOURjVDFQckx2MlQxcWc&font=Georgia-Helvetica&maptype=toner&lang=de' width='100%' height='700px' frameborder='0'></iframe>
 	</section>
 	<!-- end content -->
 	</section>
