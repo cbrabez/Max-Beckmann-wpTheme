@@ -59,6 +59,8 @@
 	</section>
 	<!-- end content -->
 
+	<?php get_sidebar(); ?>
+
 	</section>
 	<!-- end innerWrapper -->
 	

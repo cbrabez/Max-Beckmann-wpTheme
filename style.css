@@ -103,35 +103,57 @@ nav#mainNavi ul li .aktiv {
 }
 
 .bgAktuelles {
-	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;	
+	background: #e9e4db url(images/background_aktuelles.jpg) center top repeat-x;	
 	min-height: 1400px;
 	border-bottom: 10px solid #cfcac2;
 }
 
-/*.bgFolio {
+/*
+
+.bgKlassen {
 	border-top: 10px solid #353535;
 	border-bottom: 10px solid #353535;
-	background: #151515 url(images/background_folio.jpg) center top repeat;
+	background: #151515 url(images/background_klassen.jpg) center top repeat;
 	min-height: 810px;
 }
 
-.bgStandard {
+.bgKollegium {
 	background: #e9e4db url(images/background_standard.jpg) center top repeat-x;
 	min-height: 1800px;
 	border-bottom: 10px solid #cfcac2;
 }
 
-.bgBlogSingle {
+.bgArbeitskreise {
 	background: #e9e4db url(images/background_blogsingle.jpg) center top repeat-x;
 	min-height: 1800px;
 	border-bottom: 10px solid #cfcac2;
 }
 
-.bgAbout {
+.bgMitttagsbertreuung {
 	background: #e9e4db url(images/background_about.jpg) center top repeat-x;
 	min-height: 1800px;
 	border-bottom: 10px solid #cfcac2;
-}*/
+}
+
+.bgElternbeirat {
+	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;	
+	min-height: 1400px;
+	border-bottom: 10px solid #cfcac2;
+}
+
+.bgFoerderverein {
+	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;	
+	min-height: 1400px;
+	border-bottom: 10px solid #cfcac2;
+}
+
+.bgChronik {
+	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;	
+	min-height: 1400px;
+	border-bottom: 10px solid #cfcac2;
+}
+
+*/
 
 /* innerWrapper */
 #outerWrapper #innerWrapper {
