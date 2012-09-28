@@ -1,17 +1,146 @@
+
+
+.bb-item img, .bb-page img {
+	float: left;
+	padding-right: 10px;
+}
+
+.bb-item h4.kollegiumName, .bb-page h4.kollegiumName {
+	font-size: 80%;
+}
+
+.bb-item h4, .bb-page h4 {
+	font-size: 70%;
+}
+
+.bb-item p, .bb-page p {
+	font-size: 60%;
+}
+
+
 .bb-bookblock {
 	width: 300px;
-	height: 200px;
+	height: 225px;
 	position: relative;
-	background: #EBEBEB;
-
+	background: #fff;
 	z-index: 100;
+
+}
+
+.bb-page {
+	width: 50%;
+	height: 100%;
+	left: 50%;
+	position: absolute;
+
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+
+	-webkit-transform-origin: left center;
+	-moz-transform-origin: left center;
+	-o-transform-origin: left center;
+	-ms-transform-origin: left center;
+	transform-origin: left center;
+}
+
+.bb-content {
+	background: #fff;
+}
+
+.bb-inner {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.bb-overlay, .bb-outer {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.bb-page > div {
+	width: 100%;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.bb-page > div,
+.bb-outer,
+.bb-content {
+	position: absolute;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.bb-back {
+	-webkit-transform: rotateY(-180deg);
+	-moz-transform: rotateY(-180deg);
+	-o-transform: rotateY(-180deg);
+	-ms-transform: rotateY(-180deg);
+	transform: rotateY(-180deg);
+}
+
+.bb-outer {
+	width: 100%;
+	overflow: hidden;
+	z-index: 999;
+}
+
+.bb-overlay, 
+.bb-flipoverlay {
+	background-color: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+}
+
+.bb-flipoverlay {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+.bb-bookblock > div.bb-page:first-child,
+.bb-bookblock > div.bb-page:first-child .bb-back {
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-o-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
+	transform: rotateY(180deg);
+}
+
+.bb-item {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+	background: #fff;
 }
 
 ul.bb-custom-grid {
 	list-style: none;
 	margin: 40px auto 30px auto;
 	padding: 0;
-	width: 1100px;
+	width: 700px;
 }
 
 /* Micro clearfix hack by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/ */
@@ -37,7 +166,6 @@ ul.bb-custom-grid li {
 	-moz-box-sizing: content-box;
 	box-sizing: content-box;
 	margin-bottom: 20px;
-	margin-right: 20px;
 	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
 }
 
@@ -111,132 +239,4 @@ ul.bb-custom-grid nav span {
 
 ul.bb-custom-grid nav span.bb-current {
 	background: #bdd70d;
-}
-
-
-.bb-page {
-	width: 50%;
-	height: 100%;
-	left: 50%;
-	position: absolute;
-
-	-webkit-transform-style: preserve-3d;
-	-moz-transform-style: preserve-3d;
-	-o-transform-style: preserve-3d;
-	-ms-transform-style: preserve-3d;
-	transform-style: preserve-3d;
-
-	-webkit-transform-origin: left center;
-	-moz-transform-origin: left center;
-	-o-transform-origin: left center;
-	-ms-transform-origin: left center;
-	transform-origin: left center;
-}
-
-.bb-page > div,
-.bb-outer,
-.bb-content {
-	position: absolute;
-	height: 100%;
-	top: 0;
-	left: 0;
-}
-
-.bb-content {
-	background-color: rgb((87, 87, 87);
-}
-
-.bb-inner {
-	position: relative;
-	width: 100%;
-	height: 100%;
-}
-
-.bb-overlay, .bb-outer {
-	-webkit-backface-visibility: hidden;
-	-moz-backface-visibility: hidden;
-	-o-backface-visibility: hidden;
-	-ms-backface-visibility: hidden;
-	backface-visibility: hidden;
-}
-
-.bb-page > div {
-	width: 100%;
-	-webkit-transform-style: preserve-3d;
-	-moz-transform-style: preserve-3d;
-	-o-transform-style: preserve-3d;
-	-ms-transform-style: preserve-3d;
-	transform-style: preserve-3d;
-
-	-webkit-backface-visibility: hidden;
-	-moz-backface-visibility: hidden;
-	-o-backface-visibility: hidden;
-	-ms-backface-visibility: hidden;
-	backface-visibility: hidden;
-}
-
-.bb-back {
-	-webkit-transform: rotateY(-180deg);
-	-moz-transform: rotateY(-180deg);
-	-o-transform: rotateY(-180deg);
-	-ms-transform: rotateY(-180deg);
-	transform: rotateY(-180deg);
-}
-
-.bb-outer {
-	width: 100%;
-	overflow: hidden;
-	z-index: 999;
-}
-
-.bb-overlay, 
-.bb-flipoverlay {
-	background-color: rgba(87, 87, 87, 0.7);
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	width: 100%;
-	height: 100%;
-	opacity: 0;
-}
-
-.bb-flipoverlay {
-	background-color: rgba(87, 87, 87, 0.2);
-}
-
-.bb-bookblock > div.bb-page:first-child,
-.bb-bookblock > div.bb-page:first-child .bb-back {
-	-webkit-transform: rotateY(180deg);
-	-moz-transform: rotateY(180deg);
-	-o-transform: rotateY(180deg);
-	-ms-transform: rotateY(180deg);
-	transform: rotateY(180deg);
-}
-
-.bb-item {
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	display: none;
-	background-color: rgb((87, 87, 87);
-}
-
-.bb-item img {
-	float: left;
-	padding-right: 10px; 
-}
-
-.bb-item h4 {
-	font-size: 75%;
-	line-height: 10px;
-}
-
-.bb-item h4.kollegiumName {
-	padding-top: 10px;
-}
-
-.bb-item p {
-	font-size: 60%;
 }

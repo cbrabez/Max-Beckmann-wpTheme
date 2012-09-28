@@ -13,13 +13,13 @@
 		
 		<ul class="polaroids">
 		<li>
-			<a href=" " id="arbeitskreis_chor" title="Arbeitskreis 1">
+			<a href="#" id="arbeitskreis_chor" title="Arbeitskreis 1">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_chor.jpg" rel="#ak1" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
 		<li>
-			<a href=" " id="arbeitskreis_computer" title="Arbeitskreis 2">
+			<a href="#" id="arbeitskreis_computer" title="Arbeitskreis 2">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_computer.jpg" rel="#ak2" alt="Arbeitskreis" />
 			</a>
 		</li>
@@ -63,8 +63,10 @@
 
 <!-- overlays -->
 <div class="simple_overlay" id="ak1">
+	<a class"close"></a>
   <div class="details">
     <h4>Arbeitskreis 1</h4>
+    <img src="http://www.placehold.it/150x200" />
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
     </p>

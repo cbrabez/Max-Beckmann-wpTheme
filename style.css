@@ -690,6 +690,54 @@ left: -5px;
 		
 ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.5); -moz-box-shadow: 0 3px 6px rgba(0,0,0,.5); position: relative; z-index: 5; }
 
+/* Arbeitskreise Overlay */
+
+/* the overlayed element */
+.simple_overlay {
+    display:none;	/* must be initially hidden */
+    z-index:10000;	/* place overlay on top of other elements */
+    background-color:#333;
+    width:675px;
+    min-height:300px;
+    border:1px solid #666;
+    opacity: 0.9;    
+    margin-top: 200px;	   /* Placement on screen */
+    -moz-box-shadow:0 0 90px 5px #000;
+    -webkit-box-shadow: 0 0 90px #000;
+}
+
+/* close button positioned on upper right corner */
+.simple_overlay .close {
+    background-image:url(images/close.png);
+    position:absolute;
+    right:-15px;
+    top:-15px;
+    cursor:pointer;
+    height:35px;
+    width:35px;
+}
+
+   /* styling for elements inside overlay */
+  .details {
+  position:absolute;
+  top: 5px;
+  left: 15px;
+  font-size:15px;
+  color:#fff;
+  width:550px;
+  line-height: 13px;
+  }
+
+  .simple_overlay .details img {
+  	float: left;
+  	padding-right: 10px;
+  }
+
+.details h4 {
+	  padding-bottom: 10px;
+	  padding-top: 5px;
+  }
+/* Ende Arbeitskreise Overlay */
 /* Ende Arbeitskreise */
 
 
@@ -790,56 +838,3 @@ background-position: 0 .2em;
 }
 
 /* Ende Footer  */
-
-/* Arbeitskreise Overlay */
-
-/* the overlayed element */
-.simple_overlay {
-
-    /* must be initially hidden */
-    display:none;
-    /* place overlay on top of other elements */
-    z-index:10000;
-    /* styling */
-    background-color:#333;
-    width:675px;
-    min-height:200px;
-    border:1px solid #666;
-    opacity: 0.9;
-    /* Placement on screen */
-    
-    margin-top: 300px;
-    
-    /* CSS3 styling for latest browsers */
-    
-    -moz-box-shadow:0 0 90px 5px #000;
-    -webkit-box-shadow: 0 0 90px #000;
-}
-
-/* close button positioned on upper right corner */
-.simple_overlay .close {
-    background-image:url(/images/close.png);
-    position:absolute;
-    right:-15px;
-    top:-15px;
-    cursor:pointer;
-    height:35px;
-    width:35px;
-}
-
-   /* styling for elements inside overlay */
-  .details {
-  position:absolute;
-  top: 5px;
-  left: 15px;
-  font-size:15px;
-  color:#fff;
-  width:550px;
-  line-height: 13px;
-  }
-
-.details h4 {
-	  padding-bottom: 10px;
-	  padding-top: 5px;
-  }
-/* Ende Arbeitskreise Overlay */
