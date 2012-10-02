@@ -632,7 +632,7 @@ h2.ss-subtitle:after{
 
 /* Arbeitskreise */
 
-ul.polaroids { width: 970px; margin: 0 0 18px -30px; }
+ul.polaroids { width: 970px; margin: 0 0 18px 6%; }
 
 ul.polaroids li { display: inline; }
 

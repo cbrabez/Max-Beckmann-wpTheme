@@ -13,49 +13,37 @@
 		
 		<ul class="polaroids">
 		<li id="ak_chor">
-			<a href="#" class="basic" title="Arbeitskreis 1">
+			<a href="#" class="basic" title="AG - Chor">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_chor.jpg" rel="#ak1" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
 		<li id="ak_computer">
-			<a href="#" class="basic" title="Arbeitskreis 2">
+			<a href="#" class="basic" title="AG - PC 2. Klassen">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_computer.jpg" rel="#ak2" alt="Arbeitskreis" />
 			</a>
 		</li>
 
 		<li id="ak_gartengruppe">
-			<a href="#" class="basic" title="Arbeitskreis 3">
+			<a href="#" class="basic" title="AG - Schulgarten">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_gartengruppe.jpg" rel="#ak3" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
 		<li id="ak_kochen">
-			<a href="#" class="basic" title="Arbeitskreis 4">
-				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_kochen.jpg" rel="#ak4" alt="Arbeitskreis" />
+			<a href="#" class="basic" title="AG - PC 3/4. Klassen">
+				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_computer.jpg" rel="#ak4" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
 		<li id="ak_orff">
-			<a href="#" class="basic" title="Arbeitskreis 5">
+			<a href="#" class="basic" title="AG - Orff">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_orff.jpg" rel="#ak5" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
-		<li id="ak_schulspiel">
-			<a href="#" class="basic" title="Arbeitskreis 6">
-				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_schulspiel.jpg" rel="#ak6" alt="Arbeitskreis" />
-			</a>
-		</li>
-		
-		<li id="ak_sport">
-			<a href="#" class="basic" title="Arbeitskreis 7">
-				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_sport.jpg" rel="#ak7" alt="Arbeitskreis" />
-			</a>
-		</li>
-		
 		<li id="ak_streitschlichter">
-			<a href="#" class="basic" title="Arbeitskreis 8">
+			<a href="#" class="basic" title="AG - Streitschlichter">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_streitschlichter.jpg" rel="#ak8" alt="Arbeitskreis" />
 			</a>
 		</li>
