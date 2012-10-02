@@ -19,5 +19,9 @@
 	</section>
 	</footer>
 
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+	<script src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.simplemodal.js"></script>
+	<script src="<?php bloginfo('stylesheet_directory'); ?>/js/arbeitskreise.js"></script>
+
 	</body>
 </html>

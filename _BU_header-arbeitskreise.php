@@ -7,12 +7,7 @@
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/reset.css" type="text/css" />
 
-		<style type="text/css">
-			.hidden-content {
-				display: none;
-			}
-
-		</style>
+		 <script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
 	</head>
 	
 	<body>
