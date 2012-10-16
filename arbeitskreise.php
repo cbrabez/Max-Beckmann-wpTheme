@@ -9,7 +9,7 @@
 	
 	<!-- start content -->
 	<section id="aktuelles" class="aktuellesContent">
-		<h1 class="ueberschriftContent">Arbeitskreise an der Max-Beckmann-Grundschule</h1>
+		<h1 class="ueberschriftContent">Arbeitskreise und Kooperationen an der Max-Beckmann-Grundschule</h1>
 		
 		<ul class="polaroids">
 		<li id="ak_chor">
@@ -44,10 +44,25 @@
 		
 		<li id="ak_streitschlichter">
 			<a href="#" class="basic" title="AG - Streitschlichter">
-				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_streitschlichter.jpg" rel="#ak8" alt="Arbeitskreis" />
+				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_streitschlichter.jpg" rel="#ak6" alt="Arbeitskreis" />
+			</a>
+		</li>
+		
+		<li id="ko_blässerklassen">
+			<a href="#" class="basic" title="Bl&auml;serklassen">
+				<img src="http://www.placehold.it/300x225" rel="#blaeserklassen" alt="Kooperation_Bläserklassen" />
+			</a>
+		</li>
+		
+		<li id="ko_handball">
+			<a href="#" class="basic" title="Handball">
+				<img src="http://www.placehold.it/300x225" rel="#handball" alt="Kooperation_Handball" />
 			</a>
 		</li>
 	</ul>
+
+
+
 
 <!-- Start Overlay-Content -->
 
@@ -116,7 +131,7 @@
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_schulspiel-content">
+<div class="hidden-content" id="arbeitskreis_streitschlichter-content">
   <div class="details">
     <h4>Arbeitskreis 6</h4>
     <img src="http://www.placehold.it/150x200" />

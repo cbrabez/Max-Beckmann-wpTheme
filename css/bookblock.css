@@ -134,7 +134,7 @@
 .bb-custom-content h3 {
 	text-indent: 30px;
 	letter-spacing: 30px;
-	line-height: 96px;
+	line-height: 56px;
 	padding: 20px;
 	color: #AED1D8;
 	font-size: 30px;
@@ -163,7 +163,10 @@
 }
 
 .bb-custom-content p {
-	padding: 22px;
+	padding-left: 20px;
+	font-size: 10px;
+	line-height: 12px;
+	text-align: left;
 }
 
 .bb-custom-content h4 {
@@ -179,6 +182,10 @@
 	color: #bdbaa7;
 	font-weight: 400;
 	line-height: 60px;
+}
+
+.bb-custom-content img {
+	padding-top: 15px;
 }
 
 nav.bb-custom-nav  {
