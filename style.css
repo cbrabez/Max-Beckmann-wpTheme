@@ -716,6 +716,16 @@ ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(
 /* Ende Arbeitskreise Overlay */
 /* Ende Arbeitskreise */
 
+/*Category-Seiten*/
+
+.posts-by-category {
+	padding-left: 5%;
+	padding-top: 3%;
+}
+
+.list-of-posts {
+	list-style-type: circle;
+}
 
 /* Sidebar */
 
