@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/reset.css" type="text/css" />
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/bookblock.css" type="text/css" />
 		
-		<script type="text/javascript" src="http://christianbrabez.com/wp-content/themes/Max-Beckmann/js/modernizr.custom.79639.js"></script> 
+		<script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/modernizr.js"></script> 
 	</head>
 	
 	<body>

@@ -727,35 +727,6 @@ ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(
 	list-style-type: circle;
 }
 
-/* Sidebar */
-
-#sidebar-right {
-	position: absolute;
-	right: -112px;
-	width: 160px;
-	min-height: 207px;
-	top: 480px;
-	padding: 0 40px 0 40px;
-	color: #333;
-	background-image: url(images/sidebar-bg.png);
-	font-size: 15px;
-	font-family: myriad-pro-1,myriad-pro-2, Arial, Helvetica, sans-serif;
-}
-
-#sidebar-right h1 {
-	font-size: 80%;
-}
-
-#sidebar-right li {
-	list-style: none;
-	line-height: 16px;
-	font-size: 75%;
-	padding-left: 5px;
-}
-
-/* Ende Sidebar */
-
-
 /* Footer */
 
 footer {
