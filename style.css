@@ -170,7 +170,6 @@ nav#mainNavi ul li .aktiv {
 	
 }
 
-
 /* Aktuelles */
 #aktuelles {
 	float: left;
@@ -242,6 +241,12 @@ nav#mainNavi ul li .aktiv {
 	z-index: 10;
 }
 
+/* Posts*/
+
+article img {
+	float:left;
+	padding: 10px 25px 15px 0;
+}
 
 /* Kollegium */
 
