@@ -8,7 +8,7 @@
 	
 	<!-- start content -->
 	<section id="aktuelles" class="aktuellesContent">
-		<h1 class="ueberschriftContent">Vergangene Beitr&auml;ge der Schulleitung</h1>
+		<h1 class="ueberschriftContent">Vergangene Beitr&auml;ge der Klasse 2c</h1>
 	
 		<div class="posts-by-category">
 
@@ -17,13 +17,12 @@
 		      wp_reset_query();
 		} ?>
 
-		<?php if(have_posts()) : while(have_posts()) : the_post(); ?>
-			<ul class="list-of-posts">
-				<li><h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2></li>
-			</ul>
-			
-		<?php endwhile; ?>
-
+		<ol class="rectangle-list">
+			<?php if(have_posts()) : while(have_posts()) : the_post(); ?>
+				<li><h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2></li>			
+			<?php endwhile; ?>
+		</ol>
+		
 		<?php else : ?>
 
 	<h2>Nothing FOUND</h2>

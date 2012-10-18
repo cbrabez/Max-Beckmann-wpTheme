@@ -17,12 +17,11 @@
 		      wp_reset_query();
 		} ?>
 
-		<?php if(have_posts()) : while(have_posts()) : the_post(); ?>
-			<ul class="list-of-posts">
-				<li><h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2></li>
-			</ul>
-			
-		<?php endwhile; ?>
+		<ol class="rectangle-list">
+			<?php if(have_posts()) : while(have_posts()) : the_post(); ?>
+				<li><h2><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h2></li>			
+			<?php endwhile; ?>
+		</ol>
 
 		<?php else : ?>
 

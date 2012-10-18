@@ -14,6 +14,4 @@ function allow_contributor_uploads() {
 	$contributor = get_role('contributor');
 	$contributor->add_cap('upload_files');
 }
-
 ?>
-
