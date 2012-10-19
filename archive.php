@@ -10,7 +10,7 @@
 	<section id="aktuelles" class="aktuellesContent">
 		<h1 class="ueberschriftContent">Übersicht vergangener Beitr&auml;ge</h1>
 	
-
+		<?php  wp_list_categories (); ?>
 
 
 	</section>
