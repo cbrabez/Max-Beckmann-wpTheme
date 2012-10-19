@@ -8,7 +8,7 @@
 	
 	<!-- start content -->
 	<section id="aktuelles" class="aktuellesContent">
-		<h1 class="ueberschriftContent">Archiv für vergangene Beitr&auml;ge</h1>
+		<h1 class="ueberschriftContent">Übersicht vergangener Beitr&auml;ge</h1>
 	
 
 

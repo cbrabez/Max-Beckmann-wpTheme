@@ -20,9 +20,9 @@
 	
 			<?php else : ?>
 			
-				<h2>Nothing FOUND</h2>
-				<p>You are looking for something that isn't here!?!</p>
-				<p><a id="link-to-index" href="<?php echo get_option('home'); ?>">Return to the Homepage</a></p>
+				<h2>Leider haben wir keine Beitr&auml;ge gefunden.</h2>
+				<p>Im <a href="<?php bloginfo('url');?>/archiv">Archiv</a> haben Sie einen Überblick aller vergangener Artikel.</p>
+				<p>Im Bereich <a id="link-to-index" href="<?php echo get_option('home'); ?>">Aktuelles</a> finden Sie die neuesten Beitr&auml;ge.</p>
 			
 			<?php endif; ?>
 		</div>
