@@ -22,7 +22,7 @@
 			
 				<h2>Leider haben wir keine Beitr&auml;ge gefunden.</h2>
 				<p>Im <a href="<?php bloginfo('url');?>/archiv">Archiv</a> haben Sie einen Überblick aller vergangener Artikel.</p>
-				<p>Im Bereich <a id="link-to-index" href="<?php echo get_option('home'); ?>">Aktuelles</a> finden Sie die neuesten Beitr&auml;ge.</p>
+				<p>Im Bereich <a id="link-to-index" href="<?php echo get_option('home'); ?>">Aktuelles</a> finden Sie die letzten Beitr&auml;ge.</p>
 			
 			<?php endif; ?>
 		</div>

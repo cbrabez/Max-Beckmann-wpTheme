@@ -728,6 +728,10 @@ ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(
 	padding-top: 3%;
 }
 
+.posts-by-category h3 {
+	padding-top: 25px;
+}
+
 ol{
 	counter-reset: li; /* Initiate a counter */
 	list-style: none; /* Remove default numbering */
