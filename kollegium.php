@@ -94,14 +94,6 @@
 								<p>Montag 12:45 - 13:45</p>
 							</div>
 
-							<div class="bb-item"><img src="http://www.placehold.it/150x200" alt="image02"/>
-								<h4 class="kollegiumName">Name</h4>
-								<p>Name Seite 4</p>
-								<h4>Funktion</h4>
-								<p>Stellvertretende Direktorin</p>
-								<h4>Sprechzeiten</h4>
-								<p>Montag 12:45 - 13:45</p>
-							</div>
 						</div>
 						<nav>
 							<span class="bb-current"></span>
@@ -134,15 +126,6 @@
 							<div class="bb-item"><img src="http://www.placehold.it/150x200" alt="image02"/>
 								<h4 class="kollegiumName">Name</h4>
 								<p>Name Seite 3</p>
-								<h4>Funktion</h4>
-								<p>Stellvertretende Direktorin</p>
-								<h4>Sprechzeiten</h4>
-								<p>Montag 12:45 - 13:45</p>
-							</div>
-
-							<div class="bb-item"><img src="http://www.placehold.it/150x200" alt="image02"/>
-								<h4 class="kollegiumName">Name</h4>
-								<p>Name Seite 4</p>
 								<h4>Funktion</h4>
 								<p>Stellvertretende Direktorin</p>
 								<h4>Sprechzeiten</h4>
@@ -185,15 +168,6 @@
 								<h4>Sprechzeiten</h4>
 								<p>Montag 12:45 - 13:45</p>
 							</div>
-
-							<div class="bb-item"><img src="http://www.placehold.it/150x200" alt="image02"/>
-								<h4 class="kollegiumName">Name</h4>
-								<p>Name Seite 4</p>
-								<h4>Funktion</h4>
-								<p>Stellvertretende Direktorin</p>
-								<h4>Sprechzeiten</h4>
-								<p>Montag 12:45 - 13:45</p>
-							</div>
 						</div>
 						<nav>
 							<span class="bb-current"></span>
@@ -227,15 +201,6 @@
 							<div class="bb-item"><img src="http://www.placehold.it/150x200" alt="image02"/>
 								<h4 class="kollegiumName">Name</h4>
 								<p>Name Seite 3</p>
-								<h4>Funktion</h4>
-								<p>Stellvertretende Direktorin</p>
-								<h4>Sprechzeiten</h4>
-								<p>Montag 12:45 - 13:45</p>
-							</div>
-
-							<div class="bb-item"><img src="http://www.placehold.it/150x200" alt="image02"/>
-								<h4 class="kollegiumName">Name</h4>
-								<p>Name Seite 4</p>
 								<h4>Funktion</h4>
 								<p>Stellvertretende Direktorin</p>
 								<h4>Sprechzeiten</h4>
