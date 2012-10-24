@@ -93,6 +93,10 @@ nav#mainNavi ul li .aktiv {
 	font-weight: bold;	
 }
 
+nav select {
+  display: none;
+}
+
 
 /* Outer Wrapper */
 
@@ -861,3 +865,13 @@ background-position: 0 .2em;
 }
 
 /* Ende Footer  */
+
+
+/* Display-Size 960px */
+
+@media (max-width: 960px) {
+ 
+  nav ul     { display: none; }
+  nav select { display: inline-block; }
+
+}

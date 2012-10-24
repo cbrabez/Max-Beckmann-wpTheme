@@ -35,6 +35,16 @@
 				<li><a href="<?php bloginfo('url');?>/foerderverein">F&ouml;rderverein</a></li>
 				<li><a href="<?php bloginfo('url');?>/chronik">Chronik</a></li>
 			</ul>
+
+			  <select> 
+ 				<option value="" selected="selected">Select</option> 
+ 				   
+ 				<option value="/">Home</option> 
+ 				<option value="/collections/all">Books</option> 
+ 				<option value="/blogs/five-simple-steps-blog">Blog</option> 
+ 				<option value="/pages/about-us">About Us</option> 
+ 				<option value="/pages/support">Support</option> 
+ 			</select> 
 		</nav>	<!-- end mainNavi -->
 	
 		</section> <!-- end headerInner section -->

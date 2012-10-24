@@ -99,7 +99,6 @@
 							<span class="bb-current"></span>
 							<span></span>
 							<span></span>
-							<span></span>
 						</nav>
 					</li>
 					<li>
@@ -134,7 +133,6 @@
 						</div>
 						<nav>
 							<span class="bb-current"></span>
-							<span></span>
 							<span></span>
 							<span></span>
 						</nav>
@@ -173,7 +171,6 @@
 							<span class="bb-current"></span>
 							<span></span>
 							<span></span>
-							<span></span>
 						</nav>
 					</li>
 
@@ -209,7 +206,6 @@
 						</div>
 						<nav>
 							<span class="bb-current"></span>
-							<span></span>
 							<span></span>
 							<span></span>
 						</nav>
