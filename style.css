@@ -59,6 +59,9 @@ h1 a {
 	text-indent: -9999px;
 }
 
+/* hide nav-button */
+header .nav-button { display: none; }
+
 /* mainNavi */
 #headerInner nav#mainNavi {
 	float: left;
@@ -92,11 +95,6 @@ nav#mainNavi ul li .aktiv {
 	color: #2280c1;
 	font-weight: bold;	
 }
-
-nav select {
-  display: none;
-}
-
 
 /* Outer Wrapper */
 
@@ -867,14 +865,3 @@ background-position: 0 .2em;
 /* Ende Footer  */
 
 
-/* Display-Size 960px */
-
-@media (max-width: 960px) {
- 
-  nav ul     { display: none; }
-  nav select { display: inline-block; }
-  h1 a { width: 50%; height: 50%; background: url(images/logo_small.png) no-repeat;}
-  #aktuelles { width: 50%}
-  #mainNavi {margin: 10px 0 0 0;}
-
-}

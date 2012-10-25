@@ -2,46 +2,31 @@
 
 <html>
 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
 		<title><?php bloginfo('name');?> <?php wp_title(); ?></title>
 		
-		<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_directory'); ?>/css/sidebar.css">
- 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
+		<!-- default stylesheets -->
+		<link rel="stylesheet" media="screen and (min-width: 641px)" type="text/css" href="<?php bloginfo('stylesheet_directory'); ?>/css/sidebar.css">
+		<link rel="stylesheet" media="screen and (min-width: 641px)" href="<?php bloginfo('stylesheet_url'); ?>" />
+
+ 		<!-- specific stylesheets -->
+ 		<link rel='stylesheet' media='screen and (min-width: 0px) and (max-width: 640px)' href='<?php bloginfo('stylesheet_directory'); ?>/css/640.css' />
+
+ 		<!-- reset stylesheet -->
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/reset.css" type="text/css" />
 
+		<!-- javascript -->
 		<script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/modernizr.js"></script>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-
-			<script>
-			 // DOM ready
-			 $(function() {
-					   
-      				// Create the dropdown base
-      				$("<select />").appendTo("#mainNavi");
-      				
-      				// Create default option "Go to..."
-      				$("<option />", {
-      				   "selected": "selected",
-      				   "value"   : "",
-      				   "text"    : "Go to..."
-      				}).appendTo("nav select");
-      				
-      				// Populate dropdown with menu items
-      				$("nav a").each(function() {
-      				 var el = $(this);
-      				 $("<option />", {
-      				     "value"   : el.attr("href"),
-      				     "text"    : el.text()
-      				 }).appendTo("nav select");
-      				});
-      				
-					   // To make dropdown actually work
-					   // To make more unobtrusive: http://css-tricks.com/4064-unobtrusive-page-changer/
-      				$("nav select").change(function() {
-      				  window.location = $(this).find("option:selected").val();
-      				});
-	 
-			 });
-			</script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script>
+			$(document).ready(function(){
+				$("header .nav-button").click(function () {
+				$("header .nav-button,.primary-nav").toggleClass("open");
+				});    
+			});
+		</script>
+			
 		
 	</head>
 	
@@ -55,10 +40,11 @@
 			<a id="logo" href="<?php echo get_option('home'); ?>/"><?php bloginfo('name'); ?></a>
 		</h1>
 		<!-- end logo -->
-		
+		<!-- mobile navigation-button -->
+		<button class="nav-button"><p>Navigation aufklappen</p></button>
 		<!-- start mainNavi -->
 		<nav id="mainNavi">
-			<ul>
+			<ul class="primary-nav">
 				<li><a href="<?php bloginfo('url');?>" class="aktiv">Aktuelles</a></li>
 				<li><a href="<?php bloginfo('url');?>/klassen">Klassen</a></li>
 				<li><a href="<?php bloginfo('url');?>/kollegium">Kollegium</a></li>
