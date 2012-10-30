@@ -11,7 +11,7 @@
 		<link rel="stylesheet" media="screen and (min-width: 641px)" href="<?php bloginfo('stylesheet_url'); ?>" />
 
  		<!-- specific stylesheets -->
- 		<link rel='stylesheet' media='screen and (min-width: 0px) and (max-width: 640px)' href='<?php bloginfo('stylesheet_directory'); ?>/css/640.css' />
+ 		
 
  		<!-- reset stylesheet -->
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/reset.css" type="text/css" />

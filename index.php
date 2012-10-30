@@ -2,7 +2,7 @@
 
 	
 	<!-- start outerWrapper -->
-	<section id="outerWrapper" class="bgAktuelles">
+	<section id="outerWrapper" class="background-aktuelles">
 	<!-- start innerWrapper -->
 	<section id="innerWrapper">
 	

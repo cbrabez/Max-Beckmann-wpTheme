@@ -11,9 +11,6 @@ Tags:
 Text Domain: 
 */
 
-/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
--------------------------------------------------------------- */
-
 /* Links */
 a:hover, a:active { outline: none; }
  
@@ -31,32 +28,28 @@ body {
 
 header {
 	width: 100%;
-	height: 145px;
+	height: 10em;
 	float: left;
 	clear: both;
 	background: #fff;
 }
 
 header #headerInner {
-	width: 1180px;
-	height: 145px;
+	width: 75em;
+	height: 10em;
 	margin: 0 auto;
 }
 
 /* logo */
-#headerInner h1 {
-	float: left;
-	width: 350px;
-	height: 145px;
-}
 
 h1 a {
 	float: left;
-	width: 350px;
-	height: 145px;
+	width: 21em;
+	height: 10em;
 	display: block;
 	background: url(images/logo.png) no-repeat;
 	text-indent: -9999px;
+	
 }
 
 /* hide nav-button */
@@ -65,22 +58,23 @@ header .nav-button { display: none; }
 /* mainNavi */
 #headerInner nav#mainNavi {
 	float: left;
-	height: 60px;
-	margin: 40px 0px 0px 13px;
+	height: 1.5em;
+	margin: 2.5em 0 0 1em;
+
 }
 
 nav#mainNavi ul li {
 	float: left;
-	height: 60px;
-	margin: 0 0 0 10px;
+	height: 1.5em;
+	margin: 0 0 0 0.8em;
 }
 
 nav#mainNavi ul li a {
-	float: left;
-	height: 25px;
+	/*float: left;*/
+	height: 1.5em;
 	display: block;
-	padding: 18px 0 0 0;
-	font-size: 17px;
+	padding: 1em 0 0 0;
+	font-size: 1em;
 	font-style: italic;
 	color: #999;
 	cursor: pointer;
@@ -104,9 +98,8 @@ nav#mainNavi ul li .aktiv {
 	clear: both;
 }
 
-.bgAktuelles {
+.background-aktuelles {
 	background: #e9e4db url(images/background_aktuelles.jpg) center top repeat-x;	
-	min-height: 1400px;
 	border-bottom: 10px solid #cfcac2;
 }
 
@@ -159,7 +152,7 @@ nav#mainNavi ul li .aktiv {
 
 /* innerWrapper */
 #outerWrapper #innerWrapper {
-	width: 1280px;
+	width: 75em;
 	left: 3%;
 	right: -2%;
 	margin: 0 auto;
@@ -169,7 +162,6 @@ nav#mainNavi ul li .aktiv {
 .ueberschriftContent {
 	padding-left: 20px;
 	font-size: 150%;
-	
 }
 
 /* Aktuelles */
@@ -685,13 +677,6 @@ position: relative;
 top: 8px;
 right: 5px;
 }
- 
-/* Keep default rotate for every eleventh, but offset it */
-ul.polaroids li:nth-child(11n) a {
-position: relative;
-top: 3px;
-left: -5px;
-}
 
 /* ul.polaroids li.messy a { margin-top: -375px; margin-left: 160px; -webkit-transform: rotate(-5deg); -moz-transform: rotate(-5deg); } */
 		
@@ -807,7 +792,7 @@ footer {
 }
 
 footer #footerInner {
-	width: 1180px;
+	width: 75em;
 	margin: 0 auto;
 	font-family: myriad-pro-1,myriad-pro-2, Arial, Helvetica, sans-serif;
 	font-size: 15px;
