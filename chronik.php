@@ -8,7 +8,7 @@
 	<section id="innerWrapper">
 	
 	<!-- start content -->
-	<section id="chronik" class="chronikContent">
+	<section id="chronik" class="content">
 		<iframe src='http://embed.verite.co/timeline/?source=0AvJI14JT3D30dGw4WGZCYjFWOURjVDFQckx2MlQxcWc&font=Georgia-Helvetica&maptype=toner&lang=de' width='100%' height='700px' frameborder='0'></iframe>
 	</section>
 	<!-- end content -->

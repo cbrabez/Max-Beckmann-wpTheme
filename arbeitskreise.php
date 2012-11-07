@@ -8,7 +8,7 @@
 	<section id="innerWrapper">
 	
 	<!-- start content -->
-	<section id="aktuelles" class="aktuellesContent">
+	<section id="aktuelles" class="content">
 		<h1 class="ueberschriftContent">Arbeitskreise und Kooperationen an der Max-Beckmann-Grundschule</h1>
 		
 		<ul class="polaroids">

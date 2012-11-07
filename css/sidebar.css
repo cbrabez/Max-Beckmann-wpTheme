@@ -1,10 +1,9 @@
 
 #sidebar-right {
 	position: absolute;
-	right: -112px;
-	width: 160px;
-	min-height: 207px;
-	top: 480px;
+	right: -7.5em;
+	width: 10em;
+	top: 25em;
 	padding: 0 40px 0 40px;
 	color: #333;
 	background-image: url(../images/sidebar-bg.png);

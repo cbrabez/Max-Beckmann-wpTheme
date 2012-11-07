@@ -8,7 +8,7 @@
 	<section id="innerWrapper">
 	
 	<!-- start content -->
-	<section id="kollegium" class="kollegiumContent">
+	<section id="klassen" class="content">
 		<h1 class="ueberschriftContent">Unsere Klassen an der Max-Beckmann-Grundschule</h1>
 		
 			<div class="bb-custom-wrapper" id="bb-custom-wrapper">

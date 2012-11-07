@@ -7,8 +7,8 @@
 	<section id="innerWrapper">
 	
 	<!-- start content -->
-	<section id="aktuelles" class="aktuellesContent">
-		<h1 class="ueberschriftContent">Aktuelles aus der Max-Beckmann-Grundschule</h1>
+	<section id="aktuelles" class="content">
+		<h1>Aktuelles aus der Max-Beckmann-Grundschule</h1>
 	
 	<?php if (have_posts()) : ?>
 		<?php while (have_posts()) : the_post(); ?>

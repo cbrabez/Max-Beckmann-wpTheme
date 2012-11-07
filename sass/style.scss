@@ -159,9 +159,8 @@ header {
 }
 
 
-/*-----Section-Aktuelles-----*/
-
-#aktuelles {
+/*-----Content-Allgmein-----*/
+.content {
 	float: left;
 	width: 90%;
 	padding: 40px 0 80px 0;
@@ -173,16 +172,232 @@ header {
 	position: relative;
 }
 
-.aktuellesContent {
-	margin: 300px 0 80px 0;
-}
-
-#aktuelles article {
+.content article {
 	float: right;
 	clear: both;
 	margin: 60px 40px 0 200px;
 	padding: 40px 0 0 0;
 	width: 80%;
 	border-top: 5px solid #e9e4db;
+}
+
+@mixin special-h1 {
+	padding-left: 1em;
+	border-bottom: 5px solid #e9e4db;
+	width: 60%;
+}
+
+
+/*-----Section-Aktuelles-----*/
+#aktuelles h1 {
+	padding-left: 20px;
+	font-size: 150%;
+}	
+#aktuelles article {
 	@include postdatum;
+	img {
+		float: left;
+		padding: 0.5em 1em 1em 0;
+	}
+}
+
+/*-----Section-Kollegium-----*/
+#kollegium h1 {
+	@include special-h1;
+}
+
+/*-----Section-Arbeitskreise-----*/
+	ul.polaroids {
+		width: 970px; 
+		margin: 0 0 18px 6%;
+		li {
+			display: inline;
+			/* Rotate all even images 2 degrees */
+			&:nth-child(even) a {
+				-webkit-transform: rotate(2deg);
+				-moz-transform: rotate(2deg);
+			}
+			/* Don't rotate every third image, but offset its position */
+			&:nth-child(3n) a {
+				-webkit-transform: none;
+				-moz-transform: none;
+				position: relative;
+				top: -5px;
+			}
+			/* Rotate every fifth image by 5 degrees and offset it */
+			&:nth-child(5n) a {
+				-webkit-transform: rotate(5deg);
+				-moz-transform: rotate(5deg);
+				position: relative;
+				right: 5px;
+			}
+			/* Keep default rotate for every eighth, but offset it */
+			&:nth-child(8n) a {
+				position: relative;
+				top: 8px;
+				right: 5px;
+			}
+
+		}
+		a {
+			background: #fff; 
+			display: inline; 
+			float: left; 
+			margin: 35px 0 27px 50px; 
+			width: auto; 
+			padding: 10px 10px 15px; 
+			text-align: center; 
+			font-family: "Marker Felt", sans-serif; 
+			text-decoration: none; 
+			color: #333; 
+			font-size: 18px; 
+			-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25); 
+			-moz-box-shadow: 0 3px 6px rgba(0,0,0,.25); 
+			-webkit-transform: rotate(-2deg); /* By default, we tilt all our images -2 degrees */
+			-webkit-transition: -webkit-transform .15s linear; 
+			-moz-transform: rotate(-2deg);
+			&:hover {
+				-webkit-transform: scale(1.25); 
+				-moz-transform: scale(1.25); 
+				-webkit-box-shadow: 0 3px 6px rgba(0,0,0,.5); 
+				-moz-box-shadow: 0 3px 6px rgba(0,0,0,.5); 
+				position: relative; 
+				z-index: 5; 
+			}
+			&:after {content: attr(title);}
+		}
+
+		img {display: block; width: 250px; margin-bottom: 12px;}
+	}
+
+	#simplemodal-overlay {background-color:#000; cursor:wait;}
+	#simplemodal-container {
+		height:360px; 
+		width:600px; 
+		top:250px; 
+		color:#bbb; 
+		background-color:#333; 
+		border:4px solid #444; 
+		padding:12px;
+		
+
+	}
+}
+
+/*-----Section-Förderverein-----*/
+#foerderverein h1 {
+	@include special-h1;
+}
+
+/*-----Section-Kategorieansicht-----*/
+.posts-by-category {
+	padding-left: 5%;
+	padding-top: 3%;
+	h2 {
+		padding-top: 1em;
+	}
+	ol {
+		counter-reset: li; /* Initiate a counter */
+		list-style: none; /* Remove default numbering */
+		*list-style: decimal; /* Keep using default numbering for IE6/7 */
+		font: 15px 'trebuchet MS', 'lucida sans';
+		padding: 0;
+		margin-bottom: 4em;
+		text-shadow: 0 1px 0 rgba(255,255,255,.5);
+		width: 50%;
+		ol {
+			margin: 0 0 0 2em; /* Add some left margin for inner lists */
+		}
+	}
+	.rectangle-list a {
+		position: relative;
+		display: block;
+		padding: .4em .4em .4em .8em;
+		*padding: .4em;
+		margin: .5em 0 .5em 2.5em;
+		background: #ddd;
+		color: #444;
+		text-decoration: none;
+		transition: all .3s ease-out;
+		&:hover {background: #eee;}
+		&:before {
+			content: counter(li);
+			counter-increment: li;
+			position: absolute;	
+			left: -2.5em;
+			top: 50%;
+			margin-top: -1em;
+			background: #fa8072;
+			height: 2em;
+			width: 2em;
+			line-height: 2em;
+			text-align: center;
+			font-weight: bold;
+		}
+		&:after {
+			position: absolute;	
+			content: '';
+			border: .5em solid transparent;
+			left: -1em;
+			top: 50%;
+			margin-top: -.5em;
+			transition: all .3s ease-out;
+		}
+		&:hover:after {
+			left: -.5em;
+			border-left-color: #fa8072;
+		}
+	}	
+}
+
+/*-----Footer-----*/
+footer {
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 20px 0 30px 0;
+	background: #fff;
+	border-top: 10px solid #fff;
+	#footerInnter {
+		width: 75em;
+		margin: 0 auto;
+		font-family: myriad-pro-1,myriad-pro-2, Arial, Helvetica, sans-serif;
+		font-size: 15px;
+		position: relative;
+		#adresse {
+			float: left;
+			/*clear: both;*/
+			width: 480px;
+			color: #999;
+			margin: 20px 0 20px 0;
+			padding: 10px 0 0 0;
+			/*border-top: 1px dashed #ddd;*/
+			font-style: italic;
+			line-height: 22px;
+			font-family: myriad-pro-1,myriad-pro-2, Arial, Helvetica, sans-serif;
+		}
+		aside {
+			float: left;			
+			width: 380px;
+			color: #999;
+			margin: 20px 0 20px 20px;
+			padding: 10px 0 0 0;
+			/*border-top: 1px dashed #ddd;*/
+			font-style: italic;
+			line-height: 22px;
+			font-family: myriad-pro-1,myriad-pro-2, Arial, Helvetica, sans-serif;
+			#navlist {
+				margin-left: 0;
+				padding-left: 0;
+				list-style: none;
+				li {
+					padding-left: 25px;
+					background-repeat: no-repeat;
+					background-position: 0 .2em;
+				}
+				#email {background-image: url(images/icoMail.png);}
+				#telefon {background-image: url(images/icoPhone.png);}
+			}
+		}
+	}
 }
