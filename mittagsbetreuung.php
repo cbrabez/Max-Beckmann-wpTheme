@@ -8,8 +8,8 @@
 	<section id="innerWrapper">
 	
 	<!-- start content -->
-	<section id="foerderverein" class="foerdervereinContent">
-		<h1 class="ueberschriftContent">Förderverein der Max-Beckmann-Grundschule</h1>
+	<section id="mittagsbetreuung" class="content">
+		<h1>Mittagsbetreuung an der Max-Beckmann-Grundschule</h1>
 	
 		<div class="bb-custom-wrapper" id="bb-custom-wrapper">
 					<div id="bb-bookblock" class="bb-bookblock">			

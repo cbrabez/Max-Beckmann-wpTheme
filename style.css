@@ -355,6 +355,20 @@ ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(
 /* Ende Arbeitskreise Overlay */
 /* Ende Arbeitskreise */
 
+/*Mittagsbetreuung*/
+#mittagsbetreuung h1 {
+	padding-left: 1em;
+	border-bottom: 5px solid #e9e4db;
+	width: 60%;
+}
+
+/*Elternbeirat*/
+#elternbeirat h1 {
+	padding-left: 1em;
+	border-bottom: 5px solid #e9e4db;
+	width: 60%;
+}
+
 /*Category-Seiten*/
 
 .posts-by-category {

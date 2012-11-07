@@ -9,7 +9,7 @@
 	
 	<!-- start content -->
 	<section id="elternbeirat" class="content">
-		<h1 class="ueberschriftContent">Elternbeirat der Max-Beckmann-Grundschule</h1>
+		<h1>Elternbeirat der Max-Beckmann-Grundschule</h1>
 		
 		
 		

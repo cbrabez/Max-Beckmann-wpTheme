@@ -9,7 +9,7 @@
 	
 	<!-- start content -->
 	<section id="foerderverein" class="content">
-		<h1 class="ueberschriftContent">Förderverein der Max-Beckmann-Grundschule</h1>
+		<h1>F&ouml;rderverein der Max-Beckmann-Grundschule</h1>
 	
 		<div class="bb-custom-wrapper" id="bb-custom-wrapper">
 					<div id="bb-bookblock" class="bb-bookblock">			

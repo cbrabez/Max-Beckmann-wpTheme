@@ -284,6 +284,11 @@ header {
 	}
 }
 
+/*-----Mittagsbetreuung-----*/
+#mittagsbetreuung h1 {
+	@include special-h1;
+}
+
 /*-----Section-Förderverein-----*/
 #foerderverein h1 {
 	@include special-h1;
