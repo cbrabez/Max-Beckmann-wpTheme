@@ -335,23 +335,24 @@ ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(
 #simplemodal-overlay {background-color:#000; cursor:wait;}
 
 /* Container */
-#simplemodal-container {width:600px; top:250px; color:#bbb; background-color:#333; border:4px solid #444; padding:12px;}
+#simplemodal-container {width:650px; top:250px; color:#bbb; background-color:#333; border:4px solid #444; padding:12px;}
 #simplemodal-container .simplemodal-data {padding:8px;}
-#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size: 1em; margin-bottom:12px; padding:4px 6px 6px;}
 #simplemodal-container a {color:#ddd;}
 #simplemodal-container a.modalCloseImg {background:url(images/close.png) no-repeat; width:33px; height:33px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
 #simplemodal-container h4 {padding-bottom: 10px; padding-top: 5px; color:#84b8d9;}
-#simplemodal-container img.float-left {float:left; padding-right: 10px;}
-#simplemodal-container img.float-right {float:right; padding-left: 10px;}
-#simplemodal-container p {padding-bottom: 1em;}
+#simplemodal-container img.float-left {float:left; padding-right: 10px; margin-bottom: 2em;}
+#simplemodal-container img.float-right {float:right; padding-left: 10px; margin-bottom: 1em;}
+#simplemodal-container p {font-size: 0.9em; margin-bottom: 1.5em; min-height: 200px;}
+#simplemodal-container .overlay-second-paragraph {font-size: 0.9em; margin-bottom: 1.5em; min-height: 200px;}
+#simplemodal-container ul {font-size: 0.9em; list-style-type: disc; padding: 1% 0 0 5%;}
 #simplemodal-container .details { 
 	position:absolute;
   	top: 5px;
 	left: 15px;
-	font-size:15px;
 	 color:#fff;
-	 width:550px;
-	 line-height: 13px;
+	 width:630px;
+	 line-height: 1.2em;
 }
 
 /* Ende Arbeitskreise Overlay */

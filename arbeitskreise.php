@@ -68,14 +68,17 @@
 
 <div class="hidden-content" id="arbeitskreis_chor-content">
   <div class="details">
-    <h4>Arbeitskreis 1</h4>
-    <img src="http://www.placehold.it/150x200" class="float-left" />
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata 
-    </p>
+    <h4>AG - Chor</h4>
+    <img src="<?php bloginfo('stylesheet_directory'); ?>/images/chor-1.png" class="float-left" />
+    <p>Wie jedes Jahr wird  auch heuer wieder Chor als freiwillige Arbeitsgemeinschaft angeboten. Er findet immer dienstags in der 6. Stunde im Zimmer N002 statt. Damit haben wir erstmals ein spezielles Musikzimmer, so dass uns jeglicher Umbau erspart bleibt. Erfreulicherweise haben sich ca 30 Kinder aus den 1.-3. Klassen angemeldet und sind begeistert dabei. Vor allem unsere Einsinglieder, die mit Bewegung gestaltet werden, singen sie schon bald kräftig.    </p>
+	<img src="<?php bloginfo('stylesheet_directory'); ?>/images/chor-2.png" class="float-right"></img>
+    <div class="overlay-second-paragraph">Allerdings ist bis Weihnachten nicht mehr weit, so dass wir auch jetzt schon anfangen die ersten Weihnachtslieder einzuüben. Auch heuer stehen wieder große Auftritte auf dem Programm:
+		<ul>
+			<li>Am Samstag, den 8. 12. um ca 15.30 Uhr auf dem Herpersdorfer Weihnachtsmarkt</li>
+			<li>am Montag, den 17.12. um 16.00 Uhr auf dem Nürnberger Christkindlesmarkt.</li>
+		</ul>
+    </div>
+	    
   </div>
 </div>
 
