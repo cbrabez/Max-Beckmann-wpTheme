@@ -69,10 +69,10 @@
 <div class="hidden-content" id="arbeitskreis_chor-content">
   <div class="details">
     <h4>AG - Chor</h4>
-    <img src="<?php bloginfo('stylesheet_directory'); ?>/images/chor-1.png" class="float-left" />
-    <p>Wie jedes Jahr wird  auch heuer wieder Chor als freiwillige Arbeitsgemeinschaft angeboten. Er findet immer dienstags in der 6. Stunde im Zimmer N002 statt. Damit haben wir erstmals ein spezielles Musikzimmer, so dass uns jeglicher Umbau erspart bleibt. Erfreulicherweise haben sich ca 30 Kinder aus den 1.-3. Klassen angemeldet und sind begeistert dabei. Vor allem unsere Einsinglieder, die mit Bewegung gestaltet werden, singen sie schon bald kräftig.    </p>
-	<img src="<?php bloginfo('stylesheet_directory'); ?>/images/chor-2.png" class="float-right"></img>
-    <div class="overlay-second-paragraph">Allerdings ist bis Weihnachten nicht mehr weit, so dass wir auch jetzt schon anfangen die ersten Weihnachtslieder einzuüben. Auch heuer stehen wieder große Auftritte auf dem Programm:
+    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <div class="paragraph">Wie jedes Jahr wird  auch heuer wieder Chor als freiwillige Arbeitsgemeinschaft angeboten. Er findet immer dienstags in der 6. Stunde im Zimmer N002 statt. Damit haben wir erstmals ein spezielles Musikzimmer, so dass uns jeglicher Umbau erspart bleibt. Erfreulicherweise haben sich ca 30 Kinder aus den 1.-3. Klassen angemeldet und sind begeistert dabei. Vor allem unsere Einsinglieder, die mit Bewegung gestaltet werden, singen sie schon bald kräftig.    </div>
+	<img src="http://www.placehold.it/300x200" class="float-right" />
+    <div class="paragraph">Allerdings ist bis Weihnachten nicht mehr weit, so dass wir auch jetzt schon anfangen die ersten Weihnachtslieder einzuüben. Auch heuer stehen wieder große Auftritte auf dem Programm:
 		<ul>
 			<li>Am Samstag, den 8. 12. um ca 15.30 Uhr auf dem Herpersdorfer Weihnachtsmarkt</li>
 			<li>am Montag, den 17.12. um 16.00 Uhr auf dem Nürnberger Christkindlesmarkt.</li>
@@ -84,79 +84,76 @@
 
 <div class="hidden-content" id="arbeitskreis_computer-content">
   <div class="details">
-    <h4>Arbeitskreis 2</h4>
-    
-    <p>
-      <img src="http://www.placehold.it/150x200" class="float-left" />
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-    </p>
-
-   <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-    </p>
-<img src="http://www.placehold.it/150x200" class="float-right" />
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-    </p>
+    <h4>AG - Computer</h4>
+    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
+	<img src="http://www.placehold.it/300x200" class="float-right" />
+   <div class="paragraph">
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
+    <div class="paragraph">
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
   </div>
 </div>
 
 <div class="hidden-content" id="arbeitskreis_gartengruppe-content">
   <div class="details">
-    <h4>Arbeitskreis 3</h4>
-    <img src="http://www.placehold.it/150x200" class="float-left" />
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata 
-    </p>
+    <h4>AG - Garten</h4>
+    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
+	<img src="http://www.placehold.it/300x200" class="float-right" />
+   <div class="paragraph">
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
   </div>
 </div>
 
 <div class="hidden-content" id="arbeitskreis_kochen-content">
   <div class="details">
-    <h4>Arbeitskreis 4</h4>
-    <img src="http://www.placehold.it/150x200" class="float-left" />
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata 
-    </p>
+    <h4>AG - Kochen</h4>
+    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
+	<img src="http://www.placehold.it/300x200" class="float-right" />
+   <div class="paragraph">
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>    
   </div>
 </div>
 
 <div class="hidden-content" id="arbeitskreis_orff-content">
   <div class="details">
-    <h4>Arbeitskreis 5</h4>
-    <img src="http://www.placehold.it/150x200" class="float-left" />
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata 
-    </p>
+    <h4>AG - Orff</h4>
+    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
+	<img src="http://www.placehold.it/300x200" class="float-right" />
+   <div class="paragraph">
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
   </div>
 </div>
 
 <div class="hidden-content" id="arbeitskreis_streitschlichter-content">
   <div class="details">
-    <h4>Arbeitskreis 6</h4>
-    <img src="http://www.placehold.it/150x200" class="float-left" />
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata 
-    </p>
+    <h4>AG - Streitschlichter</h4>
+    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
+	<img src="http://www.placehold.it/300x200" class="float-right" />
+   <div class="paragraph">
+      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
+    </div>
   </div>
 </div>
 
 <div class="hidden-content" id="arbeitskreis_sport-content">
   <div class="details">
     <h4>Arbeitskreis 7</h4>
-    <img src="http://www.placehold.it/150x200" class="float-left" />
+    <img src="http://www.placehold.it/300x200" class="float-left" />
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
     </p>
@@ -169,7 +166,7 @@
 <div class="hidden-content" id="arbeitskreis_streitschlichter-content">
   <div class="details">
     <h4>Arbeitskreis 8</h4>
-    <img src="http://www.placehold.it/150x200" class="float-left" />
+    <img src="http://www.placehold.it/300x200" class="float-left" />
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
     </p>
