@@ -16,50 +16,50 @@ jQuery(function ($) {
 	//$('#basic-modal-content').modal();
 
 	// Load dialog on click
-	$('#ak_chor .basic').click(function (e) {
-		$('#arbeitskreis_chor-content').modal({position: [250,null]});
+	$('#ag_chor .basic').click(function (e) {
+		$('#ag_chor-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ak_computer .basic').click(function (e) {
-		$('#arbeitskreis_computer-content').modal({position: [250,null]});
+	$('# ag_computer-klasse2 .basic').click(function (e) {
+		$('#ag_computer2-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ak_gartengruppe .basic').click(function (e) {
-		$('#arbeitskreis_gartengruppe-content').modal({position: [250,null]});
+	$('#ag_gartengruppe .basic').click(function (e) {
+		$('#ag_schulgarten-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ak_kochen .basic').click(function (e) {
+	$('#ag_computer-klasse3_4 .basic').click(function (e) {
 		$('#arbeitskreis_kochen-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ak_orff .basic').click(function (e) {
+	$('#ag_orff .basic').click(function (e) {
 		$('#arbeitskreis_orff-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ak_schulspiel .basic').click(function (e) {
+	$('#ag_streitschlichter .basic').click(function (e) {
 		$('#arbeitskreis_schulspiel-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ak_sport .basic').click(function (e) {
-		$('#arbeitskreis_sport-content').modal({position: [250,null]});
+	$('# koop_blaeserklassen .basic').click(function (e) {
+		$('#koop_blaeserklassen-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ak_streitschlichter .basic').click(function (e) {
-		$('#arbeitskreis_streitschlichter-content').modal({position: [250,null]});
+	$('# koop_handball .basic').click(function (e) {
+		$('#koop_handball-content').modal({position: [250,null]});
 
 		return false;
 	});

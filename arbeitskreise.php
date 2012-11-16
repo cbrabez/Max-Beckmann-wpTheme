@@ -12,61 +12,58 @@
 		<h1 class="ueberschriftContent">Arbeitskreise und Kooperationen an der Max-Beckmann-Grundschule</h1>
 		
 		<ul class="polaroids">
-		<li id="ak_chor">
+		<li id="ag_chor">
 			<a href="#" class="basic" title="AG - Chor">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_chor.jpg" rel="#ak1" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
-		<li id="ak_computer">
+		<li id="ag_computer-klasse2">
 			<a href="#" class="basic" title="AG - PC 2. Klassen">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_computer.jpg" rel="#ak2" alt="Arbeitskreis" />
 			</a>
 		</li>
 
-		<li id="ak_gartengruppe">
+		<li id="ag_schulgarten">
 			<a href="#" class="basic" title="AG - Schulgarten">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_gartengruppe.jpg" rel="#ak3" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
-		<li id="ak_kochen">
+		<li id="ag_computer-klasse3_4">
 			<a href="#" class="basic" title="AG - PC 3/4. Klassen">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_computer.jpg" rel="#ak4" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
-		<li id="ak_orff">
+		<li id="ag_orff">
 			<a href="#" class="basic" title="AG - Orff">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_orff.jpg" rel="#ak5" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
-		<li id="ak_streitschlichter">
+		<li id="ag_streitschlichter">
 			<a href="#" class="basic" title="AG - Streitschlichter">
 				<img src="<?php bloginfo('stylesheet_directory'); ?>/images/ak_streitschlichter.jpg" rel="#ak6" alt="Arbeitskreis" />
 			</a>
 		</li>
 		
-		<li id="ko_blässerklassen">
+		<li id="koop_blässerklassen">
 			<a href="#" class="basic" title="Bl&auml;serklassen">
 				<img src="http://www.placehold.it/300x225" rel="#blaeserklassen" alt="Kooperation_Bläserklassen" />
 			</a>
 		</li>
 		
-		<li id="ko_handball">
+		<li id="koop_handball">
 			<a href="#" class="basic" title="Handball">
 				<img src="http://www.placehold.it/300x225" rel="#handball" alt="Kooperation_Handball" />
 			</a>
 		</li>
 	</ul>
 
-
-
-
 <!-- Start Overlay-Content -->
 
-<div class="hidden-content" id="arbeitskreis_chor-content">
+<div class="hidden-content" id="ag_chor-content">
   <div class="details">
     <h4>AG - Chor</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
@@ -78,13 +75,12 @@
 			<li>am Montag, den 17.12. um 16.00 Uhr auf dem Nürnberger Christkindlesmarkt.</li>
 		</ul>
     </div>
-	    
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_computer-content">
+<div class="hidden-content" id="ag_computer-klasse2-content">
   <div class="details">
-    <h4>AG - Computer</h4>
+    <h4>AG - Computer 2. Klassen</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
@@ -98,9 +94,9 @@
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_gartengruppe-content">
+<div class="hidden-content" id="ag_schulgarten-content">
   <div class="details">
-    <h4>AG - Garten</h4>
+    <h4>AG - Schulgarten</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
@@ -111,9 +107,9 @@
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_kochen-content">
+<div class="hidden-content" id="ag_computer-klasse3_4-content">
   <div class="details">
-    <h4>AG - Kochen</h4>
+    <h4>AG - Computer 3/4. Klassen</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
@@ -124,7 +120,7 @@
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_orff-content">
+<div class="hidden-content" id="ag_orff-content">
   <div class="details">
     <h4>AG - Orff</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
@@ -137,7 +133,7 @@
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_streitschlichter-content">
+<div class="hidden-content" id="ag_streitschlichter-content">
   <div class="details">
     <h4>AG - Streitschlichter</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
@@ -150,9 +146,9 @@
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_sport-content">
+<div class="hidden-content" id="koop_blaeserklassen-content">
   <div class="details">
-    <h4>Arbeitskreis 7</h4>
+    <h4>Kooperation - Bl&auml;serklassen</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
@@ -163,9 +159,9 @@
   </div>
 </div>
 
-<div class="hidden-content" id="arbeitskreis_streitschlichter-content">
+<div class="hidden-content" id="koop_handball-content">
   <div class="details">
-    <h4>Arbeitskreis 8</h4>
+    <h4>Kooperation - Handball</h4>
     <img src="http://www.placehold.it/300x200" class="float-left" />
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
