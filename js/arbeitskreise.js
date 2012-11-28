@@ -22,43 +22,43 @@ jQuery(function ($) {
 		return false;
 	});
 
-	$('# ag_computer-klasse2 .basic').click(function (e) {
-		$('#ag_computer2-content').modal({position: [250,null]});
+	$('#ag_computer-klasse2 .basic').click(function (e) {
+		$('#ag_computer-klasse2-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('#ag_gartengruppe .basic').click(function (e) {
+	$('#ag_schulgarten .basic').click(function (e) {
 		$('#ag_schulgarten-content').modal({position: [250,null]});
 
 		return false;
 	});
 
 	$('#ag_computer-klasse3_4 .basic').click(function (e) {
-		$('#arbeitskreis_kochen-content').modal({position: [250,null]});
+		$('#ag_computer-klasse3_4-content').modal({position: [250,null]});
 
 		return false;
 	});
 
 	$('#ag_orff .basic').click(function (e) {
-		$('#arbeitskreis_orff-content').modal({position: [250,null]});
+		$('#ag_orff-content').modal({position: [250,null]});
 
 		return false;
 	});
 
 	$('#ag_streitschlichter .basic').click(function (e) {
-		$('#arbeitskreis_schulspiel-content').modal({position: [250,null]});
+		$('#ag_streitschlichter-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('# koop_blaeserklassen .basic').click(function (e) {
+	$('#koop_blaeserklassen .basic').click(function (e) {
 		$('#koop_blaeserklassen-content').modal({position: [250,null]});
 
 		return false;
 	});
 
-	$('# koop_handball .basic').click(function (e) {
+	$('#koop_handball .basic').click(function (e) {
 		$('#koop_handball-content').modal({position: [250,null]});
 
 		return false;

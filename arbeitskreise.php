@@ -48,15 +48,15 @@
 			</a>
 		</li>
 		
-		<li id="koop_blässerklassen">
+		<li id="koop_blaeserklassen">
 			<a href="#" class="basic" title="Bl&auml;serklassen">
-				<img src="http://www.placehold.it/300x225" rel="#blaeserklassen" alt="Kooperation_Bläserklassen" />
+				<img src="http://lorempixel.com/300/225" rel="#blaeserklassen" alt="Kooperation_Bläserklassen" />
 			</a>
 		</li>
 		
 		<li id="koop_handball">
 			<a href="#" class="basic" title="Handball">
-				<img src="http://www.placehold.it/300x225" rel="#handball" alt="Kooperation_Handball" />
+				<img src="http://lorempixel.com/300/225" rel="#handball" alt="Kooperation_Handball" />
 			</a>
 		</li>
 	</ul>
@@ -66,14 +66,15 @@
 <div class="hidden-content" id="ag_chor-content">
   <div class="details">
     <h4>AG - Chor</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <div class="paragraph">Wie jedes Jahr wird  auch heuer wieder Chor als freiwillige Arbeitsgemeinschaft angeboten. Er findet immer dienstags in der 6. Stunde im Zimmer N002 statt. Damit haben wir erstmals ein spezielles Musikzimmer, so dass uns jeglicher Umbau erspart bleibt. Erfreulicherweise haben sich ca 30 Kinder aus den 1.-3. Klassen angemeldet und sind begeistert dabei. Vor allem unsere Einsinglieder, die mit Bewegung gestaltet werden, singen sie schon bald kräftig.    </div>
-	<img src="http://www.placehold.it/300x200" class="float-right" />
+	<img src="http://lorempixel.com/300/200" class="float-right" />
     <div class="paragraph">Allerdings ist bis Weihnachten nicht mehr weit, so dass wir auch jetzt schon anfangen die ersten Weihnachtslieder einzuüben. Auch heuer stehen wieder große Auftritte auf dem Programm:
 		<ul>
 			<li>Am Samstag, den 8. 12. um ca 15.30 Uhr auf dem Herpersdorfer Weihnachtsmarkt</li>
 			<li>am Montag, den 17.12. um 16.00 Uhr auf dem Nürnberger Christkindlesmarkt.</li>
 		</ul>
+		<br>
     </div>
   </div>
 </div>
@@ -81,10 +82,10 @@
 <div class="hidden-content" id="ag_computer-klasse2-content">
   <div class="details">
     <h4>AG - Computer 2. Klassen</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
-	<img src="http://www.placehold.it/300x200" class="float-right" />
+	<img src="http://lorempixel.com/300/200" class="float-right" />
    <div class="paragraph">
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
@@ -97,10 +98,10 @@
 <div class="hidden-content" id="ag_schulgarten-content">
   <div class="details">
     <h4>AG - Schulgarten</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
-	<img src="http://www.placehold.it/300x200" class="float-right" />
+	<img src="http://lorempixel.com/300/200" class="float-right" />
    <div class="paragraph">
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
@@ -110,10 +111,10 @@
 <div class="hidden-content" id="ag_computer-klasse3_4-content">
   <div class="details">
     <h4>AG - Computer 3/4. Klassen</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
-	<img src="http://www.placehold.it/300x200" class="float-right" />
+	<img src="http://lorempixel.com/300/200" class="float-right" />
    <div class="paragraph">
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>    
@@ -123,10 +124,10 @@
 <div class="hidden-content" id="ag_orff-content">
   <div class="details">
     <h4>AG - Orff</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
-	<img src="http://www.placehold.it/300x200" class="float-right" />
+	<img src="http://lorempixel.com/300/200" class="float-right" />
    <div class="paragraph">
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
@@ -136,10 +137,10 @@
 <div class="hidden-content" id="ag_streitschlichter-content">
   <div class="details">
     <h4>AG - Streitschlichter</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <div class="paragraph">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
-	<img src="http://www.placehold.it/300x200" class="float-right" />
+	<img src="http://lorempixel.com/300/200" class="float-right" />
    <div class="paragraph">
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.
     </div>
@@ -149,7 +150,7 @@
 <div class="hidden-content" id="koop_blaeserklassen-content">
   <div class="details">
     <h4>Kooperation - Bl&auml;serklassen</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
     </p>
@@ -162,7 +163,7 @@
 <div class="hidden-content" id="koop_handball-content">
   <div class="details">
     <h4>Kooperation - Handball</h4>
-    <img src="http://www.placehold.it/300x200" class="float-left" />
+    <img src="http://lorempixel.com/300/200" class="float-left" />
     <p>
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
     </p>
