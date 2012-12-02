@@ -16,7 +16,7 @@
 						<div class="bb-item">
 							<div class="bb-custom-content bb-custom-bg">
 								<h3>Klasse 1a</h3>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/klasse1a.jpg" alt="klasse1a" width="450" height="300" />
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/1a.jpg" alt="klasse1a" width="500" height="332" />
 								<p>	Klassleitung: Maria Mustermann</p>
 								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
@@ -28,7 +28,7 @@
 						<div class="bb-item">
 							<div class="bb-custom-content">
 								<h3>Klasse 1b</h3>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/klasse2a.jpg" alt="klasse2a" width="450" height="300" />
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/2a.jpg" alt="klasse2a" width="500" height="332" />
 								<p>	Klassleitung: Maria Mustermann</p>
 								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
@@ -40,7 +40,7 @@
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 1c</h3>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/klasse3a.jpg" alt="klasse3a" width="450" height="300" />
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/klasse3a.jpg" alt="klasse3a" width="500" height="332" />
 								<p>	Klassleitung: Maria Mustermann</p>
 								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
