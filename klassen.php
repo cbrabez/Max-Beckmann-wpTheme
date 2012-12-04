@@ -28,7 +28,7 @@
 						<div class="bb-item">
 							<div class="bb-custom-content">
 								<h3>Klasse 1b</h3>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/2a.jpg" alt="klasse2a" width="500" height="332" />
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/1b.jpg" alt="klasse1b" width="500" height="332" />
 								<p>	Klassleitung: Maria Mustermann</p>
 								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
@@ -40,7 +40,7 @@
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 1c</h3>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/klasse3a.jpg" alt="klasse3a" width="500" height="332" />
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/1c.jpg" alt="klasse1c" width="500" height="332" />
 								<p>	Klassleitung: Maria Mustermann</p>
 								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
@@ -52,63 +52,108 @@
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 2a</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/2a.jpg" alt="klasse2a" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 						
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 2b</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/2b.jpg" alt="klasse2b" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 2c</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/2c.jpg" alt="klasse2c" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 						
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 3a</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/3a.jpg" alt="klasse3a" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 						
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 3b</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/3b.jpg" alt="klasse3b" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 						
 												<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 3c</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/3c.jpg" alt="klasse3c" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 						
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 4a</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/4a.jpg" alt="klasse4a" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 						
 												<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 4b</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/4b.jpg" alt="klasse4b" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 						
 												<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 4c</h3>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+									<img src="<?php bloginfo('stylesheet_directory'); ?>/images/4c.jpg" alt="klasse4c" width="500" height="332" />
+									<p>	Klassleitung: Maria Mustermann</p>
+								<p>1. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>2. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>3. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
+								<p>4. Reihe: Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann, Max Mustermann</p> 
 							</div>
 						</div>	
 													
