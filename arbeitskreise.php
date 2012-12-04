@@ -67,7 +67,7 @@
   <div class="details">
     <h4>AG - Chor</h4>
     <img src="http://lorempixel.com/300/200" class="float-left" />
-    <div class="paragraph">Wie jedes Jahr wird  auch heuer wieder Chor als freiwillige Arbeitsgemeinschaft angeboten. Er findet immer dienstags in der 6. Stunde im Zimmer N002 statt. Damit haben wir erstmals ein spezielles Musikzimmer, so dass uns jeglicher Umbau erspart bleibt. Erfreulicherweise haben sich ca 30 Kinder aus den 1.-3. Klassen angemeldet und sind begeistert dabei. Vor allem unsere Einsinglieder, die mit Bewegung gestaltet werden, singen sie schon bald kräftig.    </div>
+    <div class="paragraph">Wie jedes Jahr wird  auch heuer wieder Chor als freiwillige Arbeitsgemeinschaft angeboten. Er findet immer dienstags in der 6. Stunde im Zimmer N002 statt. Damit haben wir erstmals ein spezielles Musikzimmer, so dass uns jeglicher Umbau erspart bleibt. Erfreulicherweise haben sich ca 30 Kinder aus den 1.-3. Klassen angemeldet und sind begeistert dabei. Vor allem unsere Einsinglieder, die mit Bewegung gestaltet werden, singen sie schon bald kr&auml;ftig.    </div>
 	<img src="http://lorempixel.com/300/200" class="float-right" />
     <div class="paragraph">Allerdings ist bis Weihnachten nicht mehr weit, so dass wir auch jetzt schon anfangen die ersten Weihnachtslieder einzuüben. Auch heuer stehen wieder große Auftritte auf dem Programm:
 		<ul>
