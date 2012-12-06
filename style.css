@@ -154,6 +154,7 @@ nav#mainNavi ul li .aktiv {
 	width: 75em;
 	left: 3%;
 	right: -2%;
+	min-height: 45em;
 	margin: 0 auto;
 	position: relative;
 }
