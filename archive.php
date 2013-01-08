@@ -7,7 +7,7 @@
 	<section id="innerWrapper">
 	
 	<!-- start content -->
-	<section id="aktuelles" class="aktuellesContent">
+	<section id="category" class="content">
 		<h1 class="ueberschriftContent">Archiv vergangener Beitr&auml;ge</h1>
 		<div class="posts-by-category">
 		<?php

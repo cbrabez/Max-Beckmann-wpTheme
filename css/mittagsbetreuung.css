@@ -1,0 +1,238 @@
+
+.bb-custom-wrapper {
+	background: rgba(255,255,255,0.1);
+	width: 700px;
+	height: 900px;
+	position: relative;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin: 40px auto;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+	font-family: "Montserrat", Arial;
+}
+
+.bb-item {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+	background: #fff;
+}
+
+.bb-page {
+	width: 50%;
+	height: 100%;
+	left: 50%;
+	position: absolute;
+
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+
+	-webkit-transform-origin: left center;
+	-moz-transform-origin: left center;
+	-o-transform-origin: left center;
+	-ms-transform-origin: left center;
+	transform-origin: left center;
+}
+
+.bb-overlay, 
+.bb-flipoverlay {
+	background-color: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+}
+
+
+.bb-flipoverlay {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+.bb-page > div,
+.bb-outer,
+.bb-content {
+	position: absolute;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.bb-outer {
+	width: 100%;
+	overflow: hidden;
+	z-index: 999;
+}
+
+.bb-content {
+	background: #fff;
+}
+
+
+.bb-inner {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.bb-overlay, .bb-outer {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.bb-page > div {
+	width: 100%;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-o-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.bb-back {
+	-webkit-transform: rotateY(-180deg);
+	-moz-transform: rotateY(-180deg);
+	-o-transform: rotateY(-180deg);
+	-ms-transform: rotateY(-180deg);
+	transform: rotateY(-180deg);
+}
+
+
+.bb-bookblock {
+	width: 700px;
+	height: 700px;
+	position: relative;
+	background: #fff;
+	z-index: 100;
+}
+
+.bb-custom-content {
+	text-align: center;
+	background: #f4f2e5 url(../images/paper.jpg) bottom center;
+	width: 100%;
+	height: 100%;
+}
+
+.bb-custom-content h3 {
+	text-indent: 30px;
+	letter-spacing: 30px;
+	line-height: 96px;
+	padding: 20px;
+	color: #AED1D8;
+	font-size: 30px;
+	display: block;
+	text-transform: uppercase;
+	position: relative;
+	background: rgba(84, 201, 234, 0.3);
+	margin: 0;
+	text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.2);
+}
+
+.bb-custom-content h3:before,
+.bb-custom-content h3:after {
+	content: '';
+	position: absolute;
+	height: 10px;
+	border-top: 2px dotted rgba(0,0,0,0.05);
+	box-shadow: inset 0 1px 1px rgba(255,255,255,0.2);
+	bottom: 0px;
+	left: 10px;
+	right: 10px;
+}
+.bb-custom-content h3:before {
+	bottom: auto;
+	top: 10px;
+}
+
+.bb-custom-content p {
+	padding: 22px;
+}
+
+.bb-custom-content h4 {
+	font-size: 28px;
+	line-height: 36px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.bb-custom-content h4 span {
+	font-size: 50px;
+	color: #bdbaa7;
+	font-weight: 400;
+	line-height: 60px;
+}
+
+nav.bb-custom-nav  {
+	width: 85px;
+	margin: 20px auto 0;
+}
+
+nav.bb-custom-nav a {
+	float: right;
+	width: 40px;
+	height: 40px;
+	background: url(../images/nav.png) center right;
+	text-indent: -90000px;
+}
+
+nav.bb-custom-nav a:first-child {
+	background-position: center left;
+	margin-right: 5px;
+	float: left;
+}
+
+
+/* Versuch GridNav Nachbau */
+
+div.bb-custom-wrapper nav {
+	text-align: center;
+	margin-top: 12px;
+	padding-bottom: 5px;
+	border-bottom: 1px dashed rgba(0,0,0,0.1);
+}
+
+div.bb-custom-wrapper span {
+	display: inline-block;
+	width: 150px;
+	height: 32px;
+	border-radius: 5px 5px 5px 5px;
+	background: #f0f0f0;
+	margin: 3px;
+	cursor: pointer;
+	box-shadow: 
+		inset 0 1px 1px rgba(0,0,0,0.2), 
+		0 2px 1px rgba(255,255,255,0.9);
+}
+
+div.bb-custom-wrapper span.bb-current {
+	background: #bdd70d;
+}
+
+.bb-bookblock > div.bb-page:first-child,
+.bb-bookblock > div.bb-page:first-child .bb-back {
+	-webkit-transform: rotateY(180deg);
+	-moz-transform: rotateY(180deg);
+	-o-transform: rotateY(180deg);
+	-ms-transform: rotateY(180deg);
+	transform: rotateY(180deg);
+}
+

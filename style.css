@@ -42,7 +42,7 @@ header #headerInner {
 
 /* logo */
 
-h1 a {
+#headerInner h1 a {
 	float: left;
 	width: 21em;
 	height: 10em;
@@ -165,7 +165,7 @@ nav#mainNavi ul li .aktiv {
 	font-size: 150%;
 }
 
-#aktuelles article img {
+.content article img:first-child {
 	float: left;
 	padding: 0.5em 1em 1em 0;
 }
@@ -190,6 +190,14 @@ nav#mainNavi ul li .aktiv {
 	padding: 2em 0 0 0;
 	width: 82%;
 	border-top: 5px solid #e9e4db;
+}
+
+.content article ul {
+	list-style-type: disc;
+}
+
+.content article p {
+	padding-bottom: 1em;
 }
 
 .content article h2 .date {

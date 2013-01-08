@@ -20,8 +20,8 @@
 	</footer>
 
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-		<script type="text/javascript" src="http://christianbrabez.com/wp-content/themes/Max-Beckmann/js/jquerypp.custom.js"></script>
-        <script type="text/javascript" src="http://christianbrabez.com/wp-content/themes/Max-Beckmann/js/jquery.bookblock.js"></script>
+		<script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/jquerypp.custom.js"></script>
+        <script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/jquery.bookblock.js"></script>
 	
 		<script type="text/javascript">
 					$(function() {

@@ -8,7 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_directory'); ?>/css/sidebar.css">
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
 		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/reset.css" type="text/css" />
-		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/foerderverein.css" type="text/css" />
+		<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/css/mittagsbetreuung.css" type="text/css" />
 		
 		<script type="text/javascript" src="<?php bloginfo('stylesheet_directory'); ?>/js/modernizr.js"></script> 
 	</head>

@@ -7,7 +7,7 @@
 	<section id="innerWrapper">
 	
 	<!-- start content -->
-	<section id="aktuelles" class="aktuellesContent">
+	<section id="category" class="content">
 		<h1 class="ueberschriftContent">Vergangene Beitr&auml;ge der Klasse 4c</h1>
 	
 		<div class="posts-by-category">

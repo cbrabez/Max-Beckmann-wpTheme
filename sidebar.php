@@ -1,12 +1,8 @@
 <ul id="sidebar-right">
 <?php if ( !dynamic_sidebar() ) : ?>
 
-  <h1>Elternbriefe zum Download</h1>
-  	<ul>
- 		<li><a href="#">Elternbrief Januar 2012</a></li>
- 		<li><a href="#">Elternbrief Februar 2012</a></li>
-  	</ul>
-
+  <h1><a href="http://schulen-nuernberg.de/beckmann/elternbriefe">Elternbriefe zum Download</a></h1>
+  	
   <h1>Beitragsarchiv</h1>
   	<section class="ac-container">
       <div>

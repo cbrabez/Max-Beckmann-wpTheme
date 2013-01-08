@@ -1,3 +1,5 @@
+<?php /* Template Name:Elternbriefe */ ?>
+
 <?php get_header(); ?>
 
 			<!-- start outerWrapper -->

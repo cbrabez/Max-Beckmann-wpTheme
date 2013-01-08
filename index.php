@@ -1,6 +1,5 @@
 <?php get_header(); ?>
 
-	
 	<!-- start outerWrapper -->
 	<section id="outerWrapper" class="background-aktuelles">
 	<!-- start innerWrapper -->
