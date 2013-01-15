@@ -1,19 +1,19 @@
 /*
 Theme Name: Max-Beckmann
-Theme URI: 
+Theme URI:
 Author: Christian Brabez
 Author URI: http://christianbrabez.com/
 Description: Wordpress Theme für die Max-Beckmann-Grundschule
 Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: 
-Text Domain:  
+Tags:
+Text Domain:
 */
 
 /* Links */
 a:hover, a:active { outline: none; }
- 
+
 a, a:active, a:visited { color: #d14334; }
 a:hover { color: #2280C1; }
 
@@ -86,7 +86,7 @@ nav#mainNavi ul li a:hover {
 
 nav#mainNavi ul li .aktiv {
 	color: #2280c1;
-	font-weight: bold;	
+	font-weight: bold;
 }
 
 /* Outer Wrapper */
@@ -98,7 +98,7 @@ nav#mainNavi ul li .aktiv {
 }
 
 .background-aktuelles {
-	background: #e9e4db url(images/background_aktuelles.jpg) center top repeat-x;	
+	background: #e9e4db url(images/background_aktuelles.jpg) center top repeat-x;
 	border-bottom: 10px solid #cfcac2;
 }
 
@@ -130,19 +130,19 @@ nav#mainNavi ul li .aktiv {
 }
 
 .bgElternbeirat {
-	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;	
+	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;
 	min-height: 1400px;
 	border-bottom: 10px solid #cfcac2;
 }
 
 .bgFoerderverein {
-	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;	
+	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;
 	min-height: 1400px;
 	border-bottom: 10px solid #cfcac2;
 }
 
 .bgChronik {
-	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;	
+	background: #e9e4db url(images/backgroundAktuelles.jpg) center top repeat-x;
 	min-height: 1400px;
 	border-bottom: 10px solid #cfcac2;
 }
@@ -174,7 +174,7 @@ nav#mainNavi ul li .aktiv {
 	float: left;
 	width: 90%;
 	padding: 2em 0 2em 0;
-	margin: 15em 0 5em 0; 
+	margin: 15em 0 5em 0;
 	background: #fff;
 	box-shadow: 0 0 0 1px #dbd7ce, 0 2px 0 #cfcac2, 0 2px 5px #cfcac2;
 	-moz-box-shadow: 0 0 0 1px #dbd7ce, 0 2px 0 #cfcac2, 0 2px 5px #cfcac2;
@@ -219,7 +219,7 @@ nav#mainNavi ul li .aktiv {
 	z-index: 20;
 	border: 1px dotted #cfcac2;
 }
-		
+
 .content article h2 .date span {
 	font-size: 0.6em;
 	font-weight: normal;
@@ -304,13 +304,13 @@ ul.polaroids a {
 -webkit-transform: rotate(-2deg);
 -moz-transform: rotate(-2deg);
 }
- 
+
 /* Rotate all even images 2 degrees */
 ul.polaroids li:nth-child(even) a {
 -webkit-transform: rotate(2deg);
 -moz-transform: rotate(2deg);
 }
- 
+
 /* Don't rotate every third image, but offset its position */
 ul.polaroids li:nth-child(3n) a {
 -webkit-transform: none;
@@ -318,7 +318,7 @@ ul.polaroids li:nth-child(3n) a {
 position: relative;
 top: -5px;
 }
- 
+
 /* Rotate every fifth image by 5 degrees and offset it */
 ul.polaroids li:nth-child(5n) a {
 -webkit-transform: rotate(5deg);
@@ -326,7 +326,7 @@ ul.polaroids li:nth-child(5n) a {
 position: relative;
 right: 5px;
 }
- 
+
 /* Keep default rotate for every eighth, but offset it */
 ul.polaroids li:nth-child(8n) a {
 position: relative;
@@ -335,7 +335,7 @@ right: 5px;
 }
 
 /* ul.polaroids li.messy a { margin-top: -375px; margin-left: 160px; -webkit-transform: rotate(-5deg); -moz-transform: rotate(-5deg); } */
-		
+
 ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(1.25); -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.5); -moz-box-shadow: 0 3px 6px rgba(0,0,0,.5); position: relative; z-index: 5; }
 
 /* Arbeitskreise Overlay */
@@ -350,11 +350,11 @@ ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(
 #simplemodal-container a {color:#ddd;}
 #simplemodal-container a.modalCloseImg {background:url(images/close.png) no-repeat; width:33px; height:33px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
 #simplemodal-container h4 {padding-bottom: 10px; padding-top: 5px; color:#84b8d9;}
-#simplemodal-container img.float-left {float:left; padding-right: 10px; margin-bottom: 2em;}
+#simplemodal-container img.float-left {float:left; margin-right: 10px; margin-bottom: 2em;}
 #simplemodal-container img.float-right {float:right; padding-left: 10px; margin-bottom: 1em;}
 #simplemodal-container .paragraph {margin-bottom: 1.5em; min-height: 225px;}
 #simplemodal-container ul {list-style-type: disc; padding: 1% 0 0 5%;}
-#simplemodal-container .details { 
+#simplemodal-container .details {
 	position:absolute;
 	overflow: auto;
 	max-height: 700px;
@@ -364,6 +364,17 @@ ul.polaroids li a:hover { -webkit-transform: scale(1.25); -moz-transform: scale(
 	 width:730px;
 	 line-height: 1.2em;
 	 font-size: 0.8em;
+}
+
+#simplemodal-container .details p {
+	padding: 0 0 1em 1em;
+}
+
+#simplemodal-container .details h3 {
+	margin: 0 0 1em 0;
+}
+#simplemodal-container .details ul {
+	margin: 0 0 1em 0;
 }
 
 /* Ende Arbeitskreise Overlay */
@@ -418,17 +429,17 @@ ol ol{
 	background: #ddd;
 	color: #444;
 	text-decoration: none;
-	transition: all .3s ease-out;	
+	transition: all .3s ease-out;
 }
 
 .rectangle-list a:hover{
 	background: #eee;
-}	
+}
 
 .rectangle-list a:before{
 	content: counter(li);
 	counter-increment: li;
-	position: absolute;	
+	position: absolute;
 	left: -2.5em;
 	top: 50%;
 	margin-top: -1em;
@@ -441,19 +452,19 @@ ol ol{
 }
 
 .rectangle-list a:after{
-	position: absolute;	
+	position: absolute;
 	content: '';
 	border: .5em solid transparent;
 	left: -1em;
 	top: 50%;
 	margin-top: -.5em;
-	transition: all .3s ease-out;				
+	transition: all .3s ease-out;
 }
 
 .rectangle-list a:hover:after{
 	left: -.5em;
-	border-left-color: #fa8072;				
-}	
+	border-left-color: #fa8072;
+}
 
 /* Footer */
 
@@ -488,7 +499,7 @@ footer #footerInner {
 		}
 
 #footerInner aside {
-	float: left;			
+	float: left;
 	width: 380px;
 	color: #999;
 	margin: 20px 0 20px 20px;
@@ -506,7 +517,7 @@ padding-left: 0;
 list-style: none;
 }
 
-#navlist li 
+#navlist li
 {
 padding-left: 25px;
 background-repeat: no-repeat;
