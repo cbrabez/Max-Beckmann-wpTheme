@@ -10,7 +10,10 @@
           <label for="ac-1">Schulleitung</label>
           <article class="ac-small">
             <ul>
-              <li><a href="<?php bloginfo('url');?>/category/schulleitung/">Beitr&auml;ge der Schulleitung</a></li>
+              <li><a href="http://schulen-nuernberg.de/beckmann/leitbild/">Leitbild</a></li>	            
+              <li><a href="http://schulen-nuernberg.de/beckmann/wochenplaene/">Wochenpl&auml;ne</a></li>
+              <li><a href="http://schulen-nuernberg.de/beckmann/jahresplanung/">Jahresplanung</a></li>
+              <li><a href="http://schulen-nuernberg.de/beckmann/sonstiges/">Sonstiges</a></li>
            </ul>
           </article>
         </div>
@@ -55,6 +58,15 @@
               <li><a href="<?php bloginfo('url');?>/category/klasse4a/">Klasse 4a</a></li>
               <li><a href="<?php bloginfo('url');?>/category/klasse4b/">Klasse 4b</a></li>
               <li><a href="<?php bloginfo('url');?>/category/klasse4c/">Klasse 4c</a></li>
+           </ul>
+          </article>
+        </div>
+        <div>
+          <input id="ac-6" name="accordion-1" type="checkbox" />
+          <label for="ac-6">Ehemalige Klassen</label>
+          <article class="ac-small">
+            <ul>
+              <li><a href="<?php bloginfo('url');?>/category/ehemalige/">Beitr&auml;ge ehemaliger Klassen</a></li>
            </ul>
           </article>
         </div>

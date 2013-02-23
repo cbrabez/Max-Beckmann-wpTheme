@@ -15,6 +15,10 @@
 				<li id="telefon"><a href="tel:+0911882584">0911/882584</a></li>
 			</ul>
 		</aside>
+		
+		<div id="impressum">
+			<h2><a href="http://schulen-nuernberg.de/beckmann/impressum/">Impressum</a></h2>
+		</div>
 
 	</section>
 	</footer>

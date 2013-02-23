@@ -28,8 +28,8 @@
 						<div class="bb-item">
 							<div class="bb-custom-content">
 								<h3>Klasse 1b</h3>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/1b.jpg" alt="klasse1b" width="500" height="332" />
-								<p>	Klassleitung: Margarita Roth</p>
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/1b.jpg" alt="klasse1c" width="500" height="332" />
+								<p>	Klassleitung: Alexandra Roller</p>
 								<p>David Blum, Andreas Ernst, Florian Fürbaß, Felix Gotha, Julian Hollederer, Tobias Kraus, Tim Petzold</p>
 								<p>Benedikt Schnickmann, Timo Wieser, Lucas Wißmeier, Celine Albrecht, Julia Baade, Chiara Eckl</p>
 								<p>Katie Gebauer, Viviane Hengl, Sandra Kempinski, Katharina Kuczewski, Lara Matthes, Jemina Aurelia Neubert</p>
@@ -40,12 +40,12 @@
 						<div class="bb-item">
 							<div class="bb-custom-content">
 									<h3>Klasse 1c</h3>
-								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/1c.jpg" alt="klasse1c" width="500" height="332" />
-								<p>	Klassleitung: Alexandra Roller</p>
+								<img src="<?php bloginfo('stylesheet_directory'); ?>/images/1c.jpg" alt="klasse1b" width="500" height="332" />
+								<p>	Klassleitung: Margarita Roth</p>
 								<p>Jamie Ryan Endlein, Timo Förtsch, Fabian Fortunato, David Halster, Malik Ijjasz, Leon Kaiser, Simon Katzemich</p>
 								<p>Stanley Pfeiffer, Daniel Pieczyk, Paul Pralle, Tyler Schwarz, Luis Spengler, Jonas Toesko</p>
 								<p>Antonia Aust, Patricia Büttner, Irma Duran, Lena Förtsch, Alina Hofmann, Theresa Kaiser, Stefanie Shaburakova</p>
-								<p>Alisa Lieder, Veronica Martinez-Sala, Lara Paulsen, Finja Prengler, Hannah Probst, Finja Schütz</p>
+								<p>Alisa Lieder, Veronica Martinez-Sala, Lara Paulsen, Finja Prengler, Hannah Probst, Finja Schütz</p>								
 							</div>
 						</div>
 
