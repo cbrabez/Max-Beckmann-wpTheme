@@ -7,7 +7,7 @@
 	
 	<!-- start content -->
 	<section id="aktuelles" class="content">
-		<h1>Aktuelles aus der Max-Beckmann-Grundschule</h1>
+		<h1>Aktuelles aus der Max-Beckmann-Grundschule 2012/13</h1>
 	
 	<?php if (have_posts()) : ?>
 		<?php while (have_posts()) : the_post(); ?>

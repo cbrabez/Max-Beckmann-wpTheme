@@ -3,7 +3,7 @@
 	position: absolute;
 	right: -7.5em;
 	width: 10em;
-	top: 25em;
+	top: 20em;
 	padding: 0 40px 0 40px;
 	color: #333;
 	background-image: url(../images/sidebar-bg.png);
@@ -46,9 +46,9 @@
 	background: -ms-linear-gradient(top, #ffffff 1%,#eaeaea 100%);
 	background: linear-gradient(top, #ffffff 1%,#eaeaea 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eaeaea',GradientType=0 );
-	box-shadow: 
-		0px 0px 0px 1px rgba(155,155,155,0.3), 
-		1px 0px 0px 0px rgba(255,255,255,0.9) inset, 
+	box-shadow:
+		0px 0px 0px 1px rgba(155,155,155,0.3),
+		1px 0px 0px 0px rgba(255,255,255,0.9) inset,
 		0px 2px 2px rgba(0,0,0,0.1);
 }
 .ac-container label:hover{
@@ -59,8 +59,8 @@
 	background: #c6e1ec;
 	color: #3d7489;
 	text-shadow: 0px 1px 1px rgba(255,255,255, 0.6);
-	box-shadow: 
-		0px 0px 0px 1px rgba(155,155,155,0.3), 
+	box-shadow:
+		0px 0px 0px 1px rgba(155,155,155,0.3),
 		0px 2px 2px rgba(0,0,0,0.1);
 }
 .ac-container label:hover:after,
@@ -71,7 +71,7 @@
 	height: 24px;
 	right: 13px;
 	top: 7px;
-	background: transparent url(../images/arrow_down.png) no-repeat center center;	
+	background: transparent url(../images/arrow_down.png) no-repeat center center;
 }
 .ac-container input:checked + label:hover:after{
 	background-image: url(../images/arrow_up.png);

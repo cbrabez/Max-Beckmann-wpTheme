@@ -16,12 +16,12 @@
 						<h3>Schulleitung</h3>
 						<div class="bb-bookblock">
 							<div class="bb-item"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/Personal/lk_KurtStieglmeier.png" alt="image01"/>
-								<h4>Direktor</h4>
+								<h4>Rektor</h4>
 								<h4>Sprechzeiten</h4>
 								<p>Dienstag und Freitag 8:45 - 9:30</p>
 							</div>
 							<div class="bb-item"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/Personal/lk_1a.png" alt="image02"/>
-								<h4>Stellvertretende Direktorin</h4>
+								<h4>Konrektorin</h4>
 								<h4>Sprechzeiten</h4>
 								<p>Mittwoch 9:45 - 10:30</p>
 							</div>
