@@ -83,7 +83,7 @@
         <div>
           <input id="ac-8" name="accordion-1" type="checkbox" />
           <label for="ac-8">Schuljahr 2011/12</label>
-          <article class="ac-small">
+          <article class="ac-medium">
             <ul>
               <li><a href="<?php bloginfo('url');?>/category/klasse1_2011_12/">1. Klassen</a></li>
               <li><a href="<?php bloginfo('url');?>/category/klasse2_2011_12/">2. Klassen</a></li>
